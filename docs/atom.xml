@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">天涯墨客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2023-07-30T21:27:06&#43;08:00</updated>
+    <updated>2023-07-30T21:30:17&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,55 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.115.3">Hugo</generator>
+        <entry>
+            <title type="text">黄峥：有关黄峥最好的4篇文章</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/huangzheng-articles/" />
+            <id>https://example.com/posts/huangzheng-articles/</id>
+            <updated>2023-07-30T21:30:12&#43;08:00</updated>
+            <published>2023-07-30T21:14:54&#43;08:00</published>
+            <author>
+                    <name>grimstroker</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">除了拼多多，还有段永平、60分万岁的好哲学 1.如何找到新的商业突破:《对话拼多多黄峥……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/140932955/257053295-83d2fe3f-3893-463c-8918-7ddd1a68076c.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了拼多多，还有段永平、60分万岁的好哲学&lt;/p&gt;
+&lt;p&gt;1.如何找到新的商业突破:《对话拼多多黄峥：他们建帝国、争地盘，我要错位竞争》&lt;/p&gt;
+&lt;p&gt;2.黄峥眼里的60分：《黄峥思维切片：60分万岁是个好哲学 》&lt;/p&gt;
+&lt;p&gt;3.黄峥是如何思考拼多多的：&lt;a href=&#34;https://mp.weixin.qq.com/s/ukrWL_5KGKma_iCjE48_PA&#34;&gt;《人物观察：黄峥的100种偏执》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.十篇文章剖析黄峥的精神世界：&lt;a href=&#34;https://mp.weixin.qq.com/s/nJ4FY9Z4dzVMKsSDmGPw4g&#34;&gt;《拼多多黄峥：对人生、市场、需求和价值的4点思考》&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/" term="互联网" label="互联网" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E9%BB%84%E9%93%AE/" term="黄铮" label="黄铮" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">雷军：有关雷军最好的5篇文章</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/leijun-articles/" />
