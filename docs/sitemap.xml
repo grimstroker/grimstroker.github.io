@@ -3,9 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/categories/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E5%BC%A0%E4%B8%80%E9%B8%A3/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/zhangyiming-5-article/</loc>
+    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
   </url>
 </urlset>

@@ -23,10 +23,57 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 30 Jul 2023 13:47:05 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 15:19:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>张一鸣：有关张一鸣最好的5篇文章</title>
+                <link>https://example.com/posts/zhangyiming-5-article/</link>
+                <guid isPermaLink="true">https://example.com/posts/zhangyiming-5-article/</guid>
+                <pubDate>Sun, 30 Jul 2023 13:54:32 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (grimstroker)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/140932955/257035264-7e2624dc-37a8-4003-ae4b-f2d58e296634.JPEG&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1.张一鸣对于搭建团队和自我的认知：《对话张一鸣：世界不是只有你和你的对手》&lt;/p&gt;
+&lt;p&gt;2.多次创业失败后的总结：&lt;a href=&#34;https://zhuanlan.zhihu.com/p/28744960&#34;&gt;《张一鸣：我重新学习了青少年阶段该学的东西》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.从找女友到爆款产品：《张一鸣的实证理性》&lt;/p&gt;
+&lt;p&gt;4.张一鸣眼里的字节跳动：《关于字节跳动这7年，张一鸣讲了5个故事》&lt;/p&gt;
+&lt;p&gt;5.不会写代码的CEO不是好HR：&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&amp;amp;mid=2247484230&amp;amp;idx=1&amp;amp;sn=bac01a6265b9bd8a49f68820225dbccc&amp;amp;source=41#wechat_redirect&#34;&gt;《张一鸣的用人观》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;额外赠送：《张一鸣微博汇总》&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/">互联网</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E5%BC%A0%E4%B8%80%E9%B8%A3/">张一鸣</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
