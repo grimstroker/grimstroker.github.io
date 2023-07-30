@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
-    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E9%9B%B7%E5%86%9B/</loc>
+    <lastmod>2023-07-30T21:14:20+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/leijun-articles/</loc>
+    <lastmod>2023-07-30T21:14:20+08:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-07-30T15:19:04+08:00</lastmod>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E7%8E%8B%E5%85%B4/</loc>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/wangxing-articles/</loc>
+    <lastmod>2023-07-30T21:24:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E5%AD%90%E6%9F%B3/</loc>
+    <lastmod>2023-07-30T18:50:31+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/ziliu-taobao-8years/</loc>
+    <lastmod>2023-07-30T18:50:31+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E5%BC%A0%E5%B0%8F%E9%BE%99/</loc>
+    <lastmod>2023-07-30T17:59:24+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/zhangxiaolong-6-article/</loc>
+    <lastmod>2023-07-30T17:59:24+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/%E5%BC%A0%E4%B8%80%E9%B8%A3/</loc>
     <lastmod>2023-07-30T15:19:04+08:00</lastmod>
